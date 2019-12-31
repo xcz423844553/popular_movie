@@ -1,7 +1,8 @@
 # Popular Movie App
 
 ## Demo
-![Demo](./popular_movie_gif.gif)
+![Demo 1](./popular_movie_webm_1.webm)
+![Demo 2](./popular_movie_webm_2.webm)
 
 ## Structure
 ![Structure](./popular_movie_structure.PNG)
