@@ -1,7 +1,7 @@
 # Popular Movie App
 
 ## Demo
-![Demo | Left | 100x0](./popular_movie_demo.gif)
+![Demo](./popular_movie_demo_1.gif)
 
 ## Structure
 ![Structure](./popular_movie_structure.PNG)
